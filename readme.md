@@ -5,7 +5,7 @@ Below is a real project of a game developing company that wants to **improve the
 
 I got that project as a take-home challenge for a data analyst position. It was fun; I learned a lot from it and so I thought I might as well share it with y'all!
 
-## Skills Tested
+## Skills Covered
 - Time Series Analysis (Seasonality)
 - Forecasting (SARIMA, AIC, etc)
 - Data Visualization (Matplotlib)
