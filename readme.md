@@ -94,7 +94,7 @@ In the end, we have the specification (0, 1, 1) * (0, 1, 1, 7), which gives us t
 Therefore, I arrive at the solution that the first Flash Sale generated an additional 223108 euros, 
 whereas the second 191266 euros, hence why the first was more successful.
 
-### Sanitary Check
+### Sanity Check
 To ensure that our model is doing a reasonable job when interpolating the revenues, 
 I mask several periods without promotions and let the model make predictions. 
 The following charts show that the model predictions are not far off from the reality, 
